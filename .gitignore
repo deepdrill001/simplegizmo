@@ -1,0 +1,23 @@
+# system
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# environments
+venv/
+env/
+.venv/
+
+# sessions and user data
+user/
+*.session
+*.session-journal
+*.json
+
+# cache
+*.sqlite3
+*.db
+*.log
