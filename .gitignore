@@ -1,0 +1,29 @@
+# Python кэш и временные файлы
+__pycache__/
+*.pyc
+
+# Telegram сессии (оставляем локально, но не пушим)
+*.session
+*.session-journal
+
+# Логи и прочие JSON файлы с данными
+*.log
+*.json
+
+# Системные файлы MacOS
+.DS_Store
+
+# Виртуальные окружения
+venv/
+.env
+
+# Твои файлы с ключами
+key.json
+license.json
+invites.json
+freetrial.json
+cookies.json
+referrals.json
+notifications.json
+logs.json
+user/
