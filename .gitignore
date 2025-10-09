@@ -10,23 +10,9 @@ __pycache__/
 .venv/
 venv/
 
-# Env / secrets
+# Env files (keep secrets out if you use them)
 .env
 .env.*
-key.json
-cookies.json
-freetrial.json
-invites.json
-license.json
-logs.json
-notifications.json
-referrals.json
 
-# App data
-user/
-user/**
-*.session
-*.session-journal
-
-# Build / deploy artifacts
+# Logs
 *.log

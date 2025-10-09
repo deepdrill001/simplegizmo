@@ -1,0 +1,30 @@
+{
+  "api_id": 20179612,
+  "api_hash": "97152305c69703ef16f9eb14b3c15f25",
+  "accounts": [
+    {
+      "name": "Степан",
+      "phone": "+44 73 5032 5570",
+      "username": "gamblearn5",
+      "user_id": 8462114973
+    },
+    {
+      "name": "Bogdan",
+      "phone": "+852 4 733 0782",
+      "username": "gamblearn2",
+      "user_id": 8125054084
+    },
+    {
+      "name": "Vlad",
+      "phone": "+852 6 465 0187",
+      "username": "gamblearn1",
+      "user_id": 8309655409
+    },
+    {
+      "name": "Андрей",
+      "phone": "+852 5 507 7876",
+      "username": "gamblearn4",
+      "user_id": 7984010233
+    }
+  ]
+}
