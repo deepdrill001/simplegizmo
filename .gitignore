@@ -1,23 +1,32 @@
-# system
+# OS / IDE
 .DS_Store
+img/.DS_Store
+.idea/
+.vscode/
+
+# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.log
-
-# environments
-venv/
-env/
 .venv/
+venv/
 
-# sessions and user data
+# Env / secrets
+.env
+.env.*
+key.json
+cookies.json
+freetrial.json
+invites.json
+license.json
+logs.json
+notifications.json
+referrals.json
+
+# App data
 user/
+user/**
 *.session
 *.session-journal
-*.json
 
-# cache
-*.sqlite3
-*.db
+# Build / deploy artifacts
 *.log
