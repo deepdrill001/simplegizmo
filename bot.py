@@ -17305,7 +17305,13 @@ async def main(user_id=None, license_type=None):
             if (not acc.get("break_until_timestamp")) and acc.get("message_count", 0) < 30
         ]
         breaks_list = [
-            f"{acc['nickname']} - {print_in_red(f'{(acc['break_until_timestamp'] - now) // 3600:02d} {(acc['break_until_timestamp'] - now) % 3600 // 60:02d} {(acc['break_until_timestamp'] - now) % 60:02d}')}"
+            f"{acc['nickname']} - " + print_in_red(
+                "{:02d} {:02d} {:02d}".format(
+                    (acc['break_until_timestamp'] - now) // 3600,
+                    ((acc['break_until_timestamp'] - now) % 3600) // 60,
+                    (acc['break_until_timestamp'] - now) % 60,
+                )
+            )
             for acc in accounts
             if acc.get("break_until_timestamp") and acc["break_until_timestamp"] > now
         ]
