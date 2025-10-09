@@ -1,0 +1,137 @@
+{
+  "accounts": [
+    {
+      "phone": "+52 9516147618",
+      "nickname": "tyson",
+      "username": "splash_tyson",
+      "template_index": 1,
+      "folder": {
+        "folder_index": 0,
+        "title": "боту 1"
+      },
+      "chat_index": 1,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717749,
+      "message_count": 30,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+1 567 402 8173",
+      "nickname": "experience",
+      "username": "experienced_user",
+      "template_index": 1,
+      "folder": {
+        "folder_index": 0,
+        "title": "1"
+      },
+      "chat_index": 30,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717305,
+      "message_count": 30,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+7 959 292 0396",
+      "nickname": "Тайсон",
+      "username": "tyson_inv",
+      "template_index": 0,
+      "folder": {
+        "folder_index": 0,
+        "title": "2"
+      },
+      "chat_index": 29,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717568,
+      "message_count": 30,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+52 4425478431",
+      "nickname": "х",
+      "username": "king_strategies",
+      "template_index": 1,
+      "folder": {
+        "folder_index": 1,
+        "title": "2"
+      },
+      "chat_index": 30,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717809,
+      "message_count": 30,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+7 996 418 5689",
+      "nickname": "founder",
+      "username": "thefounderoftheproject",
+      "template_index": 0,
+      "folder": {
+        "folder_index": 0,
+        "title": "1"
+      },
+      "chat_index": 30,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 0,
+      "message_count": 0,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+1 984 842 2751",
+      "nickname": "superior",
+      "username": "superiror_gamer",
+      "template_index": 0,
+      "folder": {
+        "folder_index": 1,
+        "title": "2"
+      },
+      "chat_index": 29,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717708,
+      "message_count": 30,
+      "break_started_ts": 0
+    },
+    {
+      "phone": "+1 573 812 5778",
+      "nickname": "employer",
+      "username": "I_am_an_employer",
+      "template_index": 2,
+      "folder": {
+        "folder_index": 0,
+        "title": "1"
+      },
+      "chat_index": 30,
+      "break_seconds_left": 0,
+      "break_until_timestamp": 1759717317,
+      "message_count": 30,
+      "break_started_ts": 0
+    }
+  ],
+  "logging_enabled": true,
+  "alternate_templates_enabled": true,
+  "sync_break_finished": false,
+  "ignore_folders": {
+    "+52 9516147618": [
+      4
+    ],
+    "+1 567 402 8173": [
+      4
+    ],
+    "+7 959 292 0396": [
+      3,
+      6
+    ],
+    "+52 4425478431": [
+      5
+    ],
+    "+7 996 418 5689": [
+      4
+    ],
+    "+1 984 842 2751": [
+      64
+    ],
+    "+1 573 812 5778": [
+      4
+    ]
+  },
+  "ignore_chats": {}
+}

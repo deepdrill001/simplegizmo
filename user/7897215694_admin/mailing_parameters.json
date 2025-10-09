@@ -1,0 +1,16 @@
+{
+  "user_id": "7897215694",
+  "license_type": "admin",
+  "mailing_parameters": {
+    "selected_accounts": [],
+    "template_mode": null,
+    "template_index": null,
+    "selected_folder": null,
+    "logging_enabled": true,
+    "alternate_templates": false,
+    "account_templates": {},
+    "ignore_folders": {},
+    "ignore_chats": {},
+    "last_updated": "2025-10-06T05:41:44.231861+00:00"
+  }
+}

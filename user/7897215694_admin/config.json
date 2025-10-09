@@ -1,0 +1,64 @@
+{
+  "api_id": 20179612,
+  "api_hash": "97152305c69703ef16f9eb14b3c15f25",
+  "accounts": [
+    {
+      "name": "tyson",
+      "phone": "+52 9516147618",
+      "username": "splash_tyson",
+      "user_id": 8014722214,
+      "template1": "telegram Бот для ваших задач\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nАвторассылка • Автоответчик • Уведомления • Автоподписка",
+      "template2": "telegram Bot for your tasks\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nAuto-dispatch • Answering machine • Notifications • Auto-subscription",
+      "template3": "Telegram Bot for Smart Marketing\nCRM · PR · Marketing · Ads · SEO · CPA · SMM\nAutomated Messaging · Auto Replies · Notifications · Smart Subscriptions"
+    },
+    {
+      "name": "experience",
+      "phone": "+1 567 402 8173",
+      "username": "experienced_user",
+      "user_id": 8376064389,
+      "template1": "telegram Bot for your tasks\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nAuto-dispatch • Answering machine • Notifications • Auto-subscription",
+      "template2": "telegram Бот для ваших задач\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nАвторассылка • Автоответчик • Уведомления • Автоподписка"
+    },
+    {
+      "name": "Тайсон",
+      "phone": "+7 959 292 0396",
+      "username": "tyson_inv",
+      "user_id": 7101473118,
+      "template1": "Телеграм бот для ведения SMM деятельности на Telegram: раскрутка и продвижения групп, чатов, каналов. \nРабота с клиентами и базами для продаж.\n-Авторассылка\n-Автоответчик\n-Уведомления (отстук) о новых поступивших сообщениях на ваших рабочих телеграмм аккаунтах\n-CRM",
+      "template2": "Telegram bot for conducting SMM activities on Telegram: promotion and promotion of groups, chats, channels. \nWorking with clients and sales bases.\n-Auto-dispatch\n- Answering machine\n-Notifications (taps) about new incoming messages on your work telegram accounts\n-CRM"
+    },
+    {
+      "name": "х",
+      "phone": "+52 4425478431",
+      "username": "king_strategies",
+      "user_id": 7498523967,
+      "template1": "бот авторассыльщик \nsmm seo cpa ads pr ppc sem target media buying affiliate арбитраж трафик маркетинг digital\nмножество доп функций",
+      "template2": "Телеграм бот для авторассылки (раскрутка / продвижение групп, чатов, каналов)"
+    },
+    {
+      "name": "founder",
+      "phone": "+7 996 418 5689",
+      "username": "thefounderoftheproject",
+      "user_id": 7286812716,
+      "template1": "Telegram-бот для бизнеса и SMM\nCRM | PR | Marketing | Ads | SEO | CPA | Target | SMM\nАвторассылка, автоответчик, уведомления, автоподписка",
+      "template2": "Telegram-бот для бизнеса и SMM\nCRM | PR | Marketing | Ads | SEO | CPA | Target | SMM\nАвторассылка, автоответчик, уведомления, автоподписка"
+    },
+    {
+      "name": "superior",
+      "phone": "+1 984 842 2751",
+      "username": "superiror_gamer",
+      "user_id": 7203624866,
+      "template1": "Telegram Automation Bot\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nSmart рассылки • Autoответчик • Уведомления • Подписки",
+      "template2": "Telegram Automation Bot\nCRM • PR • Marketing • Target • Ads • SEO • CPA • SMM\nSmart рассылки • Autoответчик • Уведомления • Подписки"
+    },
+    {
+      "name": "employer",
+      "phone": "+1 573 812 5778",
+      "username": "I_am_an_employer",
+      "user_id": 8295309865,
+      "template1": "Telegram-бот для вашего продвижения\nCRM · PR · Marketing · Ads · SEO · CPA · SMM\nАвторассылка · Автоответчик · Уведомления · Подписка",
+      "template2": "Telegram Bot for Your Promotion\nCRM · PR · Marketing · Ads · SEO · CPA · SMM\nAuto Message · Auto Reply · Alerts · Subscriptions",
+      "template3": "Automate Your Telegram Marketing\nBoost your channels, manage leads, and stay connected.\nCRM · Ads · SEO · CPA · SMM\nAuto Messaging · Smart Replies · Real-Time Notifications"
+    }
+  ]
+}
